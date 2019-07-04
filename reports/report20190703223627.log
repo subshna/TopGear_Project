@@ -1,0 +1,11 @@
+2019-07-03 22:36:27,244 Step1-Excel Application Invoked Successfully
+2019-07-03 22:36:28,489 Step2-Unzip file Adobe_usage_data.xlsx successfully
+2019-07-03 22:36:29,789 Step3-File Opened Successfully
+2019-07-03 22:36:30,492 Step4to5-Highlighted all columns
+2019-07-03 22:36:31,180 Step6-Pivot table should loaded as per selection
+2019-07-03 22:36:31,849 Step7-The pivot table should load with sorting
+2019-07-03 22:36:32,524 Step8to9-Highlighted all columns
+2019-07-03 22:36:33,227 Step7-Columns are dragged successfully to Axis
+2019-07-03 22:36:33,883 Step11-Columns are dragged successfully to Axis
+2019-07-03 22:36:34,550 Step12-Pivot chart should be loaded
+2019-07-03 22:36:34,550 Step10tp12-Columns and Chart not created name 'wb' is not defined

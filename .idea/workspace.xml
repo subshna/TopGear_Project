@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37c890b7-20ed-4214-8a5c-ede48941f71a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Excel_TestCases/MS_Excel_001_Format_Existing_File.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="742">
+              <caret line="156" column="41" selection-start-line="156" selection-start-column="41" selection-end-line="156" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Excel_TestCases/MS_Excel_002_Insert_Pivot_Table.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="761">
+              <caret line="219" column="76" selection-start-line="219" selection-start-column="76" selection-end-line="219" selection-end-column="76" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Excel_TestCases/report.py" />
+        <option value="$PROJECT_DIR$/Automation_Scenarios/MS_Excel_File.py" />
+        <option value="$PROJECT_DIR$/Excel_TestCases/test.py" />
+        <option value="$PROJECT_DIR$/Excel_TestCases/execute_testCases.py" />
+        <option value="$PROJECT_DIR$/Excel_TestCases/testfile.py" />
+        <option value="$PROJECT_DIR$/Excel_TestCases/MS_TC_001.py" />
+        <option value="$PROJECT_DIR$/Excel_TestCases/pivot_test.py" />
+        <option value="$PROJECT_DIR$/Excel_TestCases/MS_Excel_001_Format_Existing_File.py" />
+        <option value="$PROJECT_DIR$/Excel_TestCases/MS_Excel_002_Insert_Pivot_Table.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="528" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TopGear_Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TopGear_Projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TopGear_Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TopGear_Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="Excel_TestCases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TopGear_Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TopGear_Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.MS_Excel_002_Insert_Pivot_Table">
+    <configuration name="MS_Excel_001_Format_Existing_File" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TopGear_Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Excel_TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Excel_TestCases/MS_Excel_001_Format_Existing_File.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MS_Excel_002_Insert_Pivot_Table" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TopGear_Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Excel_TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Excel_TestCases/MS_Excel_002_Insert_Pivot_Table.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MS_TC_001" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TopGear_Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Excel_TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Excel_TestCases/MS_TC_001.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="execute_testCases" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TopGear_Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Excel_TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Excel_TestCases/execute_testCases.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pivot_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TopGear_Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Excel_TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Excel_TestCases/pivot_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.MS_Excel_002_Insert_Pivot_Table" />
+        <item itemvalue="Python.pivot_test" />
+        <item itemvalue="Python.MS_Excel_001_Format_Existing_File" />
+        <item itemvalue="Python.MS_TC_001" />
+        <item itemvalue="Python.execute_testCases" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37c890b7-20ed-4214-8a5c-ede48941f71a" name="Default Changelist" comment="" />
+      <created>1561535448626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561535448626</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_MS_Excel_001_Format_Existing_File_py - 2019.06.26 at 23h 09m 45s.xml">
+      <configuration name="Unittests in MS_Excel_001_Format_Existing_File.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_MS_Excel_001_Format_Existing_File_py - 2019.06.26 at 23h 10m 16s.xml">
+      <configuration name="Unittests in MS_Excel_001_Format_Existing_File.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_MS_Excel_001_Format_Existing_File_py - 2019.06.26 at 23h 19m 17s.xml">
+      <configuration name="Unittests in MS_Excel_001_Format_Existing_File.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_MS_Excel_001_Format_Existing_File_py - 2019.06.26 at 23h 37m 31s.xml">
+      <configuration name="Unittests in MS_Excel_001_Format_Existing_File.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_MS_Excel_001_Format_Existing_File_py - 2019.06.26 at 23h 37m 51s.xml">
+      <configuration name="Unittests in MS_Excel_001_Format_Existing_File.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_MS_Excel_001_Format_Existing_File_py - 2019.06.26 at 23h 38m 20s.xml">
+      <configuration name="Unittests in MS_Excel_001_Format_Existing_File.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_MS_Excel_001_Format_Existing_File_py - 2019.06.26 at 23h 40m 41s.xml">
+      <configuration name="Unittests in MS_Excel_001_Format_Existing_File.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_MS_Excel_001_Format_Existing_File_py - 2019.06.27 at 10h 44m 54s.xml">
+      <configuration name="Unittests in MS_Excel_001_Format_Existing_File.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_MS_Excel_001_Format_Existing_File_py - 2019.06.29 at 18h 46m 35s.xml">
+      <configuration name="Unittests in MS_Excel_001_Format_Existing_File.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_MS_Excel_001_Format_Existing_File_py - 2019.06.29 at 18h 47m 41s.xml">
+      <configuration name="Unittests in MS_Excel_001_Format_Existing_File.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27555323" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Excel_TestCases/MS_Excel_File.py" />
+    <entry file="file://$PROJECT_DIR$/reports/SmokeTest.html" />
+    <entry file="file://$PROJECT_DIR$/Excel_TestCases/report.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenshot/Step2_QCServer_Error.png" />
+    <entry file="file://$PROJECT_DIR$/screenshot/Step2_No_files_Found.png" />
+    <entry file="file://$PROJECT_DIR$/screenshot/Step1_Validate_Application.png" />
+    <entry file="file://$PROJECT_DIR$/Excel_TestCases/LoginTest.html" />
+    <entry file="file://$PROJECT_DIR$/Excel_TestCases/reports/TestResults___main__.MS_Excel_TC001_2019-06-27_19-20-32.html" />
+    <entry file="file://$PROJECT_DIR$/Excel_TestCases/reports/TestResults___main__.MS_Excel_TC001_2019-06-27_19-24-13.html" />
+    <entry file="file://$PROJECT_DIR$/Excel_TestCases/test.py" />
+    <entry file="file://$PROJECT_DIR$/Automation_Scenarios/MS_Excel_File.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="69" column="31" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excel_TestCases/reports/TestResults_Excel_TestCases.testfile.ExtractZipFile_2019-06-30_12-28-45.html" />
+    <entry file="file://$PROJECT_DIR$/screenshot/Step2_File Not found.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excel_TestCases/reports/TestResults_Excel_TestCases.testfile.ExtractZipFile_2019-06-30_12-32-42.html" />
+    <entry file="file://$PROJECT_DIR$/Excel_TestCases/reports/TestResults_Excel_TestCases.testfile.ExtractZipFile_2019-06-30_12-33-16.html" />
+    <entry file="file://$PROJECT_DIR$/reports/LoginTest.html" />
+    <entry file="file://C:/Python37/Lib/site-packages/win32com/client/dynamic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excel_TestCases/reports/TestResults_Excel_TestCases.testfile.ExtractZipFile_2019-06-30_14-05-49.html" />
+    <entry file="file://$PROJECT_DIR$/Excel_TestCases/reports/TestResults_Excel_TestCases.testfile.ExtractZipFile_2019-06-30_19-56-15.html" />
+    <entry file="file://$PROJECT_DIR$/screenshot/Step2_Unzip_file.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excel_TestCases/execute_testCases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reports/report20190701213406.log" />
+    <entry file="file://$PROJECT_DIR$/screenshot/Step5_Copy_Cell_Paste_Error.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excel_TestCases/testfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="81" column="54" lean-forward="true" selection-start-line="81" selection-start-column="12" selection-end-line="81" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excel_TestCases/MS_TC_001.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="176" column="60" lean-forward="true" selection-start-line="176" selection-start-column="60" selection-end-line="176" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excel_TestCases/pivot_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excel_TestCases/MS_Excel_001_Format_Existing_File.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="742">
+          <caret line="156" column="41" selection-start-line="156" selection-start-column="41" selection-end-line="156" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excel_TestCases/MS_Excel_002_Insert_Pivot_Table.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="761">
+          <caret line="219" column="76" selection-start-line="219" selection-start-column="76" selection-end-line="219" selection-end-column="76" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

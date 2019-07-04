@@ -1,0 +1,10 @@
+2019-07-03 22:39:03,635 Step1-Excel Application Invoked Successfully
+2019-07-03 22:39:04,867 Step2-Unzip file Adobe_usage_data.xlsx successfully
+2019-07-03 22:39:06,164 Step3-File Opened Successfully
+2019-07-03 22:39:06,855 Step4to5-Highlighted all columns
+2019-07-03 22:39:07,525 Step6-Pivot table should loaded as per selection
+2019-07-03 22:39:08,182 Step7-The pivot table should load with sorting
+2019-07-03 22:39:08,854 Step8to9-Highlighted all columns
+2019-07-03 22:39:09,525 Step7-Columns are dragged successfully to Axis
+2019-07-03 22:39:10,182 Step11-Columns are dragged successfully to Axis
+2019-07-03 22:39:10,869 Step12-Pivot chart should be loaded
